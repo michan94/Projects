@@ -1,1 +1,1 @@
-Tutorial courtesy of: https://spring.io/guides/gs/authenticating-ldap/
+Tutorial courtesy of: https://spring.io/guides/gs/authenticating-ldap/ 
