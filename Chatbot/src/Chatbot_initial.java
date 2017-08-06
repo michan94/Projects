@@ -12,7 +12,7 @@ public class Chatbot_initial {
 
     public static void main(String[] args) {
         boolean status = true;
-        System.out.println("Hi Stranger! What's your name?");
+        System.out.println("Hi Stranger! I'm Andrea. What's your name?");
         Scanner scan = new Scanner(System.in);
         String userName = scan.nextLine();
         System.out.println("Hey " + userName + "!");
